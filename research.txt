@@ -1,0 +1,14 @@
+REFERNCES:
+
+Random String Generation:
+https://stackoverflow.com/questions/4356289/php-random-string-generator
+
+Password Hashing (lots of research in this link):
+http://php.net/manual/en/ref.password.php
+
+// FOR TESTING:
+// the password for user 'broge' is 'rogers'
+
+// TODO
+// implement password rehashing with PASSWORD_NEEDS_REHASH function
+// check usernames to prevent duplicate users (duplicate users break the system. only the most recent one can log in)
